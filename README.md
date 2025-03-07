@@ -10,7 +10,7 @@ I have a strong background in **software development, data engineering, and scal
 💡 Passionate about **AI-driven solutions** | 🏗 Building scalable machine learning models | 📊 Data-driven decision-making  
 
 ## 📂 What's in this Repository?  
-📄 **[My Resume](./resume.pdf)** – Showcasing my expertise in AI, Data Science & Software Development.  
+📄 **[My Resume](./Akhila_Atmakuru_Resume.pdf)** – Showcasing my expertise in AI, Data Science & Software Development.  
 💻 **Personal Projects** – Machine learning, NLP, Computer Vision & Data Science applications.  
 📚 **Publications** – Research on feature selection, explainability & transfer learning in AI.  
 
