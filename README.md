@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Akhila Atmakuru  
 
+![](https://komarev.com/ghpvc/?username=akhilatmakuru&color=yellowgreen&abbreviated=true&base=100&style=for-the-badge)
+
 🎓 **PhD in Artificial Intelligence** | 🤖 **Deep Learning & Data Science** | 🏆 **Researcher & Scrum Master**  
 
 ## 🚀 About Me  
