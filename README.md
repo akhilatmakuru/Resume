@@ -5,7 +5,7 @@
 🎓 **PhD in Artificial Intelligence** | 🤖 **Deep Learning & Data Science** | 🏆 **Researcher & Scrum Master**  
 
 ## 🚀 About Me  
-I’m an **AI researcher and data scientist with a PhD in Artificial Intelligence**, specialising in deep learning, machine learning, and explainability. With experience in **computer vision, NLP, time series analysis, and cloud computing**, I have worked on cutting-edge AI solutions across research and industry.
+I’m an **AI researcher and data scientist with a PhD in Artificial Intelligence (Awaiting Formal Award)**, specialising in deep learning, machine learning, and explainability. With experience in **computer vision, NLP, time series analysis, and cloud computing**, I have worked on cutting-edge AI solutions across research and industry.
 
 I have a strong background in **software development, data engineering, and scalable AI model deployment, with hands-on expertise in Python, TensorFlow, PyTorch, AWS, and Agile methodologies**. Whether it’s optimising predictive models, building intelligent automation, or driving AI-driven decision-making, I’m passionate about leveraging technology to solve complex challenges. 
 
